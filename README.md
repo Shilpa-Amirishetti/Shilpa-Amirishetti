@@ -23,7 +23,7 @@ Feel free to reach out to me for collaboration or data analysis opportunities.
 
 * 🌍  I'm based in Reading, United Kingdom
 * ✉️  You can contact me at [shilpa.amirishetti86@gmail.com](mailto:shilpa.amirishetti86@gmail.com)
-* 🧠  I'm learning Currently leaning Pandas, DP-900, Power BI
+* 🧠  I'm learning Pandas, DP-900, Power BI
 
 ### Skills
 
