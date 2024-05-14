@@ -42,8 +42,6 @@ Feel free to reach out to me for collaboration or data analysis opportunities.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Shilpa-Amirishetti&show_icons=true&theme=radical)
 
+![Shilpa-Amirishetti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shilpa-Amirishetti&theme=radical&hide_border=false)
 
-
-<a href="http://www.github.com/Shilpa-Amirishetti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shilpa-Amirishetti&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shilpa-Amirishetti&layout=pie)](https://github.com/Shilpa-Amirishetti/github-readme-stats)
+![Shilpa-Amirishetti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shilpa-Amirishetti&theme=radical&show_icons=true&hide_border=false&layout=compact)
