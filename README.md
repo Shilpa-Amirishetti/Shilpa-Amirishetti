@@ -1,4 +1,4 @@
-!Banner Description![big-data-banner](https://github.com/Shilpa-Amirishetti/Shilpa-Amirishetti/assets/169453309/ed1eac80-a689-408e-89b5-861452f400a1)
+![big-data-banner](https://github.com/Shilpa-Amirishetti/Shilpa-Amirishetti/assets/169453309/ed1eac80-a689-408e-89b5-861452f400a1)
 
 
 
